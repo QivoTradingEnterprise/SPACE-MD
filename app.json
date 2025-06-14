@@ -16,8 +16,8 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
-    "required": false
+    "value": "CYPHER-X:~UEsDBBQAAAgIAAegzlq5MAfDTwQAAHAHAAAKAAAAY3JlZHMuanNvbpVUXbOiOBD9L3m91lwQRLTqVg2gIioK4vfWPAQJGD5CTIKKU*73Le7H3HnYnb3LU+ikuk+fc7p*AlJijqaoBv2fgDJ8gQI1R1FTBPrArOIYMdACERQQ9IE6i5d2kQbRfTZUb8Obo93c6sntrMzpZuwWGyHvUxqFWN*xF*BoAVqFOT7+IeHkZp4KGLD4WspaNXNHgVavB5I0pP51s0FZHDN7PeiVqW28gEeTEWKGSTKkJ1QgBvMpqj2I2dfgQ7vKre1hdXC1YhxbW0j5dhSxKNgsQnf3ND*Xlprmkj7ZSl+D3x13ar10ulbG14V84HThhU9peqm2uZLN7qsyMy8XRZ+Y9fUNPscJQZETISKwqL*M+3Vwyq8sOBH5Imy93TMlbEb3yLrJe0oS7O5TebqLLWk+*CLw9oDOnZ2yYLUlyq6sTDrSsaj9omI9u+vYeLCvfXKJN2Xu*A7cYx9eyf4P79i0SLEdPfWyNFaPB2fkOVPPrwa+EWnLMpuvaeGr6n5*3hy*Bp+RAbwv56E*NNAy6Ga6v9AP4Swu4jpqS6OA+3znaUa0OfFP+FBU7E8o7WTbg+Fz6qXUXQwcftla9mEYVSldhZ4lO263Z1ruUOqkG*20NO7HtSh77lJNZ*g2q0o7JfOnarbXQy21fCWowvFmYSUvrx1lqHYi0JcfLcBQgrlgUOCSNLFOtwVgdAnQkSHxyi4YhNJoQGixfIaycC0dn4rtRNpceuNZ5WVP*JY7uYQHV95xX0ALUFYeEecoGmMuSla7iHOYIA76f*1oAYJu4k23ppoit0CMGRdrUtG8hNGHqB+X8HgsKyKCmhyt5oAY6EufYSQEJglvaKwIZMcTviDrBAUH*RjmHP1qEDEUgb5gFfo1tFYZNbyP9cnACAwftEDxqgeOGkcqak+WdUVVdE3tq9*5t2uTFlL6jSABWiB*e6ZJktKR9G5bbmuq1le*N*HHL4BNvggJiHMO+sCaopBMHHPoBlTojm0bw8SwEgN8NvRhjDfmk+fb2F9n6ew4vKsH2qazdNE5+2wNV1axk4w43Q2fwzPa+9LLPyRpdoy*ep6uLyyMVYgrzV+OLF+*bSd0v8yMKjnvzhwhhrO5cT7J52xeMmsaKwt12VYzVJK6LZjLGEmkvETwdlhTMw8GjYtaIEIXfES*F6v3obNP4tLz81XXO2zapnGQtVKNaVKX03nn0vGmRCJzQs0dNnt2Bq+j9XZ2HinXYbKvFuPBOeuURFG62*k6UqCqbc*Gu2VfRyZ*X1X41U2NVM1vjNHr5BPYCPjf0r0BbxwmPVq*5XjfJf8yj+be05fSaOLUiuk+2TA6B+q9gtlUtrMrzXvGWJVvXlsjxXAOHo8fLUBzKOKSFY0MJGIljkALsLJqLOuQuPxDMcuQnI*Oc8iF8TkGK1wgLmBBQV*uqr2eIrcl*e2Vx0o6hvzUkGCrRlE1nq4NSgMBxcdUAaP5JlMNPP4GUEsBAhQDFAAACAgAB6DOWrkwB8NPBAAAcAcAAAoAAAAAAAAAAAAAAKSBAAAAAGNyZWRzLmpzb25QSwUGAAAAAAEAAQA4AAAAdwQAAAAA",
+    "required": true
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
@@ -25,7 +25,7 @@
     "required": true
   },
   "GITHUB_USERNAME": {
-    "description": "You must set your github username to use the bot unless you're a premium user",
+    "description": "Israel",
     "value": "",
     "required": false
   },
